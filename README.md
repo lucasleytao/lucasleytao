@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Fullstack Developer trainee at Inovat Business<br>- Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- Front-end Developer at Inovat Business<br>- Formado em Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
