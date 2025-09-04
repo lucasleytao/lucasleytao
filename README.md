@@ -2,11 +2,15 @@
 
 ###
 
-<p align="left">- Front-end Developer at Inovat Business<br>- Formado em Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- Front-end Developer Jr<br>- Formado em Análise e Desenvolvimento de Sistemas 2025.1</p>
 
 ###
 
-<h3 align="left">Techs que utilizo atualmente</h3>
+<h3 align="left">Ferramentas de trabalho</h3>
+
+###
+
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -26,7 +30,29 @@
 
 ###
 
-<h3 align="left">Techs que estou estudando</h3>
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">Novas techs que estou estudando</h3>
 
 ###
 
@@ -58,28 +84,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasleytao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasleytao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -95,6 +99,11 @@
 <div align="left">
   <a href="mailto:lucassilvaleitao1401@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://wa.me/5586994545031" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
 
