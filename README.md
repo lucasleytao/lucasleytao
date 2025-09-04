@@ -84,9 +84,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasleytao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasleytao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasleytao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasleytao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  /><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasleytao&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -97,13 +99,11 @@
 ###
 
 <div align="left">
-  <a href="mailto:lucassilvaleitao1401@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://wa.me/5586994545031" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  <a href="mailto:lucassilvaleitao1401@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+  </a><br>
+  <a href="https://wa.me/5586994545031" target="_blank" rel="noopener noreferrer" style="margin-left: 250px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" />
   </a>
 </div>
 
