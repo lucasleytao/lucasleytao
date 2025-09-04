@@ -99,11 +99,11 @@
 ###
 
 <div align="left">
-  <a href="https://wa.me/5586994545031" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" style="margin-left:200px;" />
-  </a>
   <a href="mailto:lucassilvaleitao1401@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+  </a><br>
+  <a href="https://wa.me/5586994545031" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" style="margin-left:200px;" />
   </a>
 </div>
 
