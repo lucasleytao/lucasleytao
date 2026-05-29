@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">Novas techs que estou estudando</h3>
+<h3 align="left">Novas techs que estou utilizando</h3>
 
 ###
 
