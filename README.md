@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">- Front-end Developer Jr<br>- Formado em Análise e Desenvolvimento de Sistemas 2025.1</p>
+<p align="left">-&#x1F4BB;&#x1F4F2; Frontend Developer<br>- Formado em Análise e Desenvolvimento de Sistemas 2025.1</p>
 
 ###
 
-<h3 align="left">Techs que utilizo</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -21,8 +21,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
@@ -52,17 +52,17 @@
 
 ###
 
-<h3 align="left">Novas techs que estou utilizando</h3>
+<h3 align="left">Novas skills que estou aprendendo</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
@@ -94,15 +94,15 @@
 
 ###
 
-<h3 align="left">Entre em contato</h3>
+<h3 align="left">Contato</h3>
 
 ###
 
 <div align="left">
-  <a href="mailto:lucassilvaleitao1401@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:lucassilvaleitao1401@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
-  </a><br>
-  <a href="https://wa.me/5586994545031" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://wa.me/5586994545031" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo" />
   </a>
 </div>
