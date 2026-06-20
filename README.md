@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">Novas skills que estou aprendendo</h3>
+<h3 align="left">Novas skills que estou desenvolvendo</h3>
 
 ###
 
