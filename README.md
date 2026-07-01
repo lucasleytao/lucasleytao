@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-&#x1F4BB;&#x1F4F2; Frontend Developer<br>- Formado em Análise e Desenvolvimento de Sistemas 2025.1</p>
+<p align="left">-&#x1F4BB;&#x1F4F2; Frontend Engineer<br>- Formado em Análise e Desenvolvimento de Sistemas 2025.1</p>
 
 ###
 
